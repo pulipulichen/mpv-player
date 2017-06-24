@@ -1,0 +1,1 @@
+mpv-x86_64-20170423\mpv.exe "audio.mp3" --no-osc
