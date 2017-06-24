@@ -1,0 +1,1 @@
+mpv-x86_64-20170423\mpv.exe "image.png" --background=#FAFCF6 --image-display-duration=10

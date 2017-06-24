@@ -1,1 +1,1 @@
-mpv-x86_64-20170423\mpv.exe "background_white.gif" --loop-file=inf --no-osc --panscan=1.0
+mpv-x86_64-20170423\mpv.exe "background_white.gif" --loop-file=inf --panscan=1.0

@@ -1,1 +1,1 @@
-mpv-x86_64-20170423\mpv.exe "image.png" --loop-file=inf --no-osc --background=#FAFCF6
+mpv-x86_64-20170423\mpv.exe "image.png" --background=#FAFCF6 --loop-file=inf

@@ -1,1 +1,1 @@
-mpv-x86_64-20170423\mpv.exe "video.mp4" --no-osc
+mpv-x86_64-20170423\mpv.exe "video.mp4"
