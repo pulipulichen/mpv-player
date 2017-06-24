@@ -1,1 +1,0 @@
-mpv-x86_64-20170423\mpv.exe "background.gif" --background=#FAFCF6 --loop-file=inf 
